@@ -6,3 +6,4 @@ NCBI Web Crawler
 .
 - Pendiente adaptación a Python.
 - El código está comentado.
+- Hay un exe funcional en el paquete.
